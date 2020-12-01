@@ -1,0 +1,12 @@
+{
+  "name": "mocha-issue",
+  "version": "1.0.0",
+  "description": "Test project to show opportunity to improve mocha",
+  "main": "test/test.js",
+  "author": "DimaDK",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "mocha": "^8.2.1"
+  }
+}
